@@ -62,5 +62,6 @@ spacy==3.2.1
 # Run 'python -m spacy download en_core_web_md'
 # to download the model.
 # en_core_web_md
+gunicorn==20.1.0
 
 
