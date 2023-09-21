@@ -77,4 +77,4 @@ def calculate_semantic_similarity():
 
 if __name__ == '__main__':
     # Update the host and port to match your Render settings
-    app.run(host='0.0.0.0', port=5000)
+     app.run(host='0.0.0.0', port=80)
